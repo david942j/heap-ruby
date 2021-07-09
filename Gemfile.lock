@@ -17,7 +17,7 @@ GEM
     parser (2.7.0.5)
       ast (~> 2.4.0)
     rainbow (3.0.0)
-    rake (13.0.3)
+    rake (13.0.6)
     rexml (3.2.5)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
