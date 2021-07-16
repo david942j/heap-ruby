@@ -8,7 +8,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.0)
-    dentaku (3.4.1)
+    concurrent-ruby (1.1.9)
+    dentaku (3.4.2)
+      concurrent-ruby
     diff-lcs (1.4.4)
     docile (1.3.2)
     jaro_winkler (1.5.4)
